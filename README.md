@@ -1,5 +1,5 @@
 # paper-repository
-## Semi-Supervised Learing
+## Semi-Supervised Learning
 1.2024-Arxiv-__FINESSL:Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning__ [[paper](https://arxiv.org/pdf/2405.11756)] [[code](https://github.com/Gank0078/FineSSL)]  
 2.2025-Arxiv-__Revisiting Semi-Supervised Learning in the Era of Foundation Models__ [[paper](https://arxiv.org/pdf/2503.09707)] [[code](https://github.com/OSU-MLB/SSL-Foundation-Models)]  
 3.2023-NeurIPS-__S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
