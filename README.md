@@ -10,3 +10,8 @@
 2025-CVPR-__Learning Textual Prompts for Open-World Semi-Supervised Learning__  
 2024-NeurIPS-__OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/b4fd162d3e2d015233486a2e313828a7-Paper-Conference.pdf)] [[code](https://github.com/niusj03/OwMatch)]  
 2025-Arxiv-__CGMatch: A Different Perspective of Semi-supervised Learning__[[paper](https://arxiv.org/pdf/2503.02231?)] [[code](https://github.com/BoCheng-96/CGMatch)]  
+2024-ICML-__Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data__[[paper](https://arxiv.org/pdf/2406.10502)] [[code](https://github.com/vanillaer/CPL-ICML2024)]  
+2025-Arxiv-__SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptation__[[paper](https://arxiv.org/pdf/2501.14148)] 
+2024-Arxiv-__DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models__[[paper](https://arxiv.org/pdf/2408.08855?)] 
+2025-ICLR-__SEMI-SUPERVISED CLIP ADAPTATION BY ENFORCING SEMANTIC AND TRAPEZOIDAL CONSISTENCY__[[paper](https://openreview.net/pdf?id=97D725GJtQ)] [[code](https://github.com/Gank0078/SemiCLIP)]  
+2025-CVPR-__Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition__
