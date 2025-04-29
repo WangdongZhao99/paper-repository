@@ -15,5 +15,5 @@
 2025-CVPR-__CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning__  
 2025-CVPR-__Learning Textual Prompts for Open-World Semi-Supervised Learning__  
 2025-CVPR-__Seek Common Ground While Reserving Differences: Semi-supervised Image-Text Sentiment Recognition__  
-## Vision foundation model Fine-tuning
+## Foundation model Fine-tuning
 2024-NeurIPS-__Boosting Vision-Language Models with Transduction__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
