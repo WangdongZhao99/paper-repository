@@ -27,6 +27,19 @@
 2024-CVPR-__ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
 2024-CVPR-__Generalizable whole slide image classification with fine-grained visual-semantic interaction__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Generalizable_Whole_Slide_Image_Classification_with_Fine-Grained_Visual-Semantic_Interaction_CVPR_2024_paper.pdf)] [[code](https://github.com/ls1rius/WSI_FIVE)]  
 2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
+2025-CVPR-__No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition__  
+2024-Arxiv-__FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification__ [[paper](https://arxiv.org/pdf/2411.14743)] [[code](https://github.com/dddavid4real/FOCUS)]  
+2025-Arxiv-__MExD:AnExpert-InfusedDiffusionModelforWhole-SlideImageClassification__[[paper](https://arxiv.org/pdf/2503.12401)] [[code](https://github.com/JWZhao-uestc/MExD)]  
+2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
+2025-Arxiv-__MERGE:Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images__ [[paper](https://arxiv.org/pdf/2412.02601)]  
+2025-Arxiv-__WISE: AFramework for Gigapixel Whole-Slide-Image Lossless Compression__ [[paper](https://arxiv.org/pdf/2503.18074)]  
+2025-Arxiv-__Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation__[[paper](https://arxiv.org/pdf/2503.12068)] [[code](https://github.com/QingchenTang/PBIP)]  
+
+
+
+
+
+
 
 
 
