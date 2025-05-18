@@ -21,7 +21,7 @@
 2025-Arxiv-__COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation__ [[paper](https://arxiv.org/pdf/2503.23388)] [[code](https://github.com/hf618/COSMIC)]  
 2025-Arxiv-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2403.09974)] [[code](https://github.com/enguangW/GET)]  
 ## Medical
-2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper]([https://arxiv.org/pdf/2411.14743](https://arxiv.org/pdf/2502.08333))]  
+2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper]((https://arxiv.org/pdf/2502.08333))]  
 2024-Nature-__A pathology foundation model for cancer diagnosis and prognosis prediction__  
 2024-LNCS-__Boosting Vision-Language Models for Histopathology Classification: Predict all at once__ [[paper](https://arxiv.org/pdf/2409.01883)] [[code](https://github.com/FereshteShakeri/Histo-TransCLIP)]  
 2024-CVPR-__ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
