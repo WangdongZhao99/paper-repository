@@ -40,10 +40,10 @@
 2025-CVPR-__No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition__  
 2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper]([https://arxiv.org/pdf/2411.14743](https://arxiv.org/pdf/2502.08333))]  
 2024-Arxiv-__FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification__ [[paper](https://arxiv.org/pdf/2411.14743)] [[code](https://github.com/dddavid4real/FOCUS)]  
-2024-Arxiv-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
+2024-Arxiv-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__[[paper](https://arxiv.org/pdf/2412.12077)]  
 2025-Arxiv-__MExD:AnExpert-InfusedDiffusionModelforWhole-SlideImageClassification__[[paper](https://arxiv.org/pdf/2503.12401)] [[code](https://github.com/JWZhao-uestc/MExD)]  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
-2025-Arxiv-__MERGE:Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images__ [[paper](https://arxiv.org/pdf/2412.02601)]  
+2025-Arxiv-__MERGE:Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images__[[paper](https://arxiv.org/pdf/2412.02601)]  
 2025-Arxiv-__WISE: AFramework for Gigapixel Whole-Slide-Image Lossless Compression__ [[paper](https://arxiv.org/pdf/2503.18074)]  
 2025-Arxiv-__Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation__[[paper](https://arxiv.org/pdf/2503.12068)] [[code](https://github.com/QingchenTang/PBIP)]  
 2025-Arxiv-__Multi-ModalFoundationModelsforComputationalPathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
