@@ -29,7 +29,7 @@
 2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
 2024-Arxiv-__FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification__ [[paper](https://arxiv.org/pdf/2411.14743)] [[code](https://github.com/dddavid4real/FOCUS)]  
 2024-Arxiv-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
-2025-Nature-__A vision–language foundation model for precision oncology__  
+2025-Nature-__A vision–language foundation model for precision oncology__[[paper](https://www.nature.com/articles/s41586-024-08378-w#code-availability)]  
 2025-Nature-__BEPH:A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images__  [[paper](https://www.nature.com/articles/s41467-025-57587-y#Sec10)] [[code](https://github.com/Zhcyoung/BEPH)]  
 2025-ICLR-__Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology__ [[paper](https://arxiv.org/pdf/2409.09369)] [[code](https://github.com/liupei101/VLSA)]  
 2025-CVPR-__No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition__  
