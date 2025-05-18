@@ -18,7 +18,6 @@
 
 ## Foundation model Fine-tuning
 2024-NeurIPS-__Boosting Vision-Language Models with Transduction__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/71d7dbe2652bd4662d29fa269f059db4-Paper-Conference.pdf)] [[code](https://github.com/MaxZanella/transduction-for-vlms)]  
-
 2025-Arxiv-__COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation__ [[paper](https://arxiv.org/pdf/2503.23388)] [[code](https://github.com/hf618/COSMIC)]  
 2025-Arxiv-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2403.09974)] [[code](https://github.com/enguangW/GET)]  
 ## Medical
