@@ -41,6 +41,9 @@
 2025-Arxiv-__Multi-ModalFoundationModelsforComputationalPathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
 
+## Mixture of Experts 
+2024-NIPS-__MoVA: Adapting Mixture of Vision Experts to Multimodal Context__ [[paper](https://arxiv.org/pdf/2404.13046?)] [[code](https://github.com/TempleX98/MoVA)]
+
 
 
 
