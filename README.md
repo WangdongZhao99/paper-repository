@@ -27,8 +27,11 @@
 2024-CVPR-__ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
 2024-CVPR-__Generalizable whole slide image classification with fine-grained visual-semantic interaction__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Generalizable_Whole_Slide_Image_Classification_with_Fine-Grained_Visual-Semantic_Interaction_CVPR_2024_paper.pdf)] [[code](https://github.com/ls1rius/WSI_FIVE)]  
 2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
-2024-CVPR-__FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification__ [[paper](https://arxiv.org/pdf/2411.14743)] [[code](https://github.com/dddavid4real/FOCUS)]  
-2024-CVPR-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
+2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
+2025-CVPR-__FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification__ [[paper](https://arxiv.org/pdf/2411.14743)] [[code](https://github.com/dddavid4real/FOCUS)]  
+2025-CVPR-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
+2024-MICCAI-Hierarchical text-to-vision self supervised alignment for improved histopathology representation learning__ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_16)] [[code](https://github.com/Hasindri/HLSS)]  
+2024-ECCV-__Knowledge-enhanced visual-language pretraining for computational pathology__ [[paper](https://arxiv.org/pdf/2404.09942)] [[code](https://github.com/MAGIC-AI4Med/KEP)]  
 2025-Nature-__A vision–language foundation model for precision oncology__[[paper](https://www.nature.com/articles/s41586-024-08378-w#code-availability)]  
 2025-Nature-__BEPH:A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images__  [[paper](https://www.nature.com/articles/s41467-025-57587-y#Sec10)] [[code](https://github.com/Zhcyoung/BEPH)]  
 2025-ICLR-__Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology__ [[paper](https://arxiv.org/pdf/2409.09369)] [[code](https://github.com/liupei101/VLSA)]  
@@ -37,9 +40,19 @@
 2025-CVPR-__MERGE:Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images__ [[paper](https://arxiv.org/pdf/2412.02601)]  
 2025-CVPR-__WISE: AFramework for Gigapixel Whole-Slide-Image Lossless Compression__ [[paper](https://arxiv.org/pdf/2503.18074)]  
 2025-CVPR-__Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation__[[paper](https://arxiv.org/pdf/2503.12068)] [[code](https://github.com/QingchenTang/PBIP)]  
+2025-CVPR-__Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning__ [[paper](https://arxiv.org/pdf/2502.21130)] [[code](https://github.com/JiuyangDong/HDMIL)]  
+2025-CVPR-__2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification__  
+2025-CVPR-__M3amba: Memory Mamba is All You Need for Whole Slide Image Classification__  
+2025-CVPR-__Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images__  
+2025-CVPR-__Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging__  
+2025-CVPR-__SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding__  
+2025-CVPR-__Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__  
+2025-CVPR-__Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information__  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
 2025-Arxiv-__Multi-ModalFoundationModelsforComputationalPathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
+2025-Arxiv-__Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology__ [[paper](https://arxiv.org/pdf/2501.02922) [[code](https://github.com/ss-sun/ConceptMIL)]
+
 
 ## Mixture of Experts 
 2024-NIPS-__MoVA: Adapting Mixture of Vision Experts to Multimodal Context__ [[paper](https://arxiv.org/pdf/2404.13046?)] [[code](https://github.com/TempleX98/MoVA)]
