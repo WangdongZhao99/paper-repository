@@ -52,7 +52,8 @@
 2025-Arxiv-__Multi-ModalFoundationModelsforComputationalPathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
 2025-Arxiv-__Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology__ [[paper](https://arxiv.org/pdf/2501.02922)] [[code](https://github.com/ss-sun/ConceptMIL)]  
-2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]
+2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]  
+2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]
 
 
 ## Mixture of Experts 
