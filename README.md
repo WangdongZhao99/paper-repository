@@ -22,12 +22,13 @@
 2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2403.09974)] [[code](https://github.com/enguangW/GET)]  
 ## Medical
 ### VLM, Multimodal, Zero-shot
-2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper](https://arxiv.org/pdf/2502.08333)] 
+2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper](https://arxiv.org/pdf/2502.08333)]  
 2024-Nature-__A pathology foundation model for cancer diagnosis and prognosis prediction__  
 2024-LNCS-__Boosting Vision-Language Models for Histopathology Classification: Predict all at once__ [[paper](https://arxiv.org/pdf/2409.01883)] [[code](https://github.com/FereshteShakeri/Histo-TransCLIP)]  
 2024-ECCV-__Knowledge-enhanced visual-language pretraining for computational pathology__ [[paper](https://arxiv.org/pdf/2404.09942)] [[code](https://github.com/MAGIC-AI4Med/KEP)]  
 2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
 2025-CVPR-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
+2025-CVPR-__ Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.pdf)] [[code](https://github.com/BasitAlawode/MR-PLIP)]  
 2025-Nature-__BEPH:A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images__  [[paper](https://www.nature.com/articles/s41467-025-57587-y#Sec10)] [[code](https://github.com/Zhcyoung/BEPH)]  
 2025-Nature-__A vision–language foundation model for precision oncology__[[paper](https://www.nature.com/articles/s41586-024-08378-w#code-availability)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
