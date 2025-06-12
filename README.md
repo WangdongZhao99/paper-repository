@@ -21,21 +21,22 @@
 2025-CVPR-__COSMIC:Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation__ [[paper](https://arxiv.org/pdf/2503.23388)] [[code](https://github.com/hf618/COSMIC)]  
 2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2403.09974)] [[code](https://github.com/enguangW/GET)]  
 ## Medical
-### VLM, Multimodal, Zero-shot
+### Foundation Models & Pre-training
 2023-Arxiv-__Foundation Models in Computational Pathology: A Review of Challenges, Opportunities, and Impact__ [[paper](https://arxiv.org/pdf/2502.08333)]  
 2024-Nature-__A pathology foundation model for cancer diagnosis and prognosis prediction__  
 2024-LNCS-__Boosting Vision-Language Models for Histopathology Classification: Predict all at once__ [[paper](https://arxiv.org/pdf/2409.01883)] [[code](https://github.com/FereshteShakeri/Histo-TransCLIP)]  
 2024-ECCV-__Knowledge-enhanced visual-language pretraining for computational pathology__ [[paper](https://arxiv.org/pdf/2404.09942)] [[code](https://github.com/MAGIC-AI4Med/KEP)]  
-2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
+2024-MICCAI-__Hierarchical text-to-vision self supervised alignment for improved histopathology representation learning__ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_16)] [[code](https://github.com/Hasindri/HLSS)]  
+
 2025-CVPR-__CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology__ [[paper](https://arxiv.org/pdf/2412.12077)]  
-2025-CVPR-__ Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.pdf)] [[code](https://github.com/BasitAlawode/MR-PLIP)]  
+2025-CVPR-__Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.pdf)] [[code](https://github.com/BasitAlawode/MR-PLIP)]  
 2025-Nature-__BEPH:A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images__  [[paper](https://www.nature.com/articles/s41467-025-57587-y#Sec10)] [[code](https://github.com/Zhcyoung/BEPH)]  
 2025-Nature-__A vision–language foundation model for precision oncology__[[paper](https://www.nature.com/articles/s41586-024-08378-w#code-availability)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
-2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]  
-2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
+2025-Arxiv-__Multi-Modal Foundation Models for Computational Pathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
+2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)] 
 ### others
-2024-MICCAI-__Hierarchical text-to-vision self supervised alignment for improved histopathology representation learning__ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_16)] [[code](https://github.com/Hasindri/HLSS)]  
+2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
 2024-CVPR-__ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
 2024-CVPR-__Generalizable whole slide image classification with fine-grained visual-semantic interaction__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Generalizable_Whole_Slide_Image_Classification_with_Fine-Grained_Visual-Semantic_Interaction_CVPR_2024_paper.pdf)] [[code](https://github.com/ls1rius/WSI_FIVE)]  
 2025-ICLR-__Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology__ [[paper](https://arxiv.org/pdf/2409.09369)] [[code](https://github.com/liupei101/VLSA)]  
@@ -54,7 +55,7 @@
 2025-CVPR-__Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__  
 2025-CVPR-__Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information__  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
-2025-Arxiv-__Multi-ModalFoundationModelsforComputationalPathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
+2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]   
 2025-Arxiv-__Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology__ [[paper](https://arxiv.org/pdf/2501.02922)] [[code](https://github.com/ss-sun/ConceptMIL)]  
 
 
