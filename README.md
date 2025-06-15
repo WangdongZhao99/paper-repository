@@ -54,6 +54,7 @@
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
 2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]   
 2025-Arxiv-__Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology__ [[paper](https://arxiv.org/pdf/2501.02922)] [[code](https://github.com/ss-sun/ConceptMIL)]  
+2025-Arxiv-__Full Conformal Adaptation of Medical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2506.06076)][[code](https://github.com/jusiro/FCA)]
 
 
 ## Mixture of Experts 
