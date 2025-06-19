@@ -30,6 +30,7 @@
 2025-CVPR-__Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.pdf)] [[code](https://github.com/BasitAlawode/MR-PLIP)]  
 2025-Nature-__BEPH:A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images__  [[paper](https://www.nature.com/articles/s41467-025-57587-y#Sec10)] [[code](https://github.com/Zhcyoung/BEPH)]  
 2025-Nature-__A vision–language foundation model for precision oncology__[[paper](https://www.nature.com/articles/s41586-024-08378-w#code-availability)]  
+2025-CVPR-__Realistic Test-Time Adaptation of Vision-Language Models__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf)] [[code](https://github.com/MaxZanella/StatA)]  
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
 2025-Arxiv-__Multi-Modal Foundation Models for Computational Pathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)] 
