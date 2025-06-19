@@ -33,6 +33,7 @@
 2025-Arxiv-__GECKO:GigapixelVision-Concept Contrastive Pretraining in Histopathology__ [[paper](https://arxiv.org/pdf/2504.01009)] [[code](https://github.com/bmi-imaginelab/GECKO)]  
 2025-Arxiv-__Multi-Modal Foundation Models for Computational Pathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)] 
+2025-Arxiv-__Full Conformal Adaptation of Medical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2506.06076)] [[code](https://github.com/jusiro/FCA)]  
 ### others
 2023-ICCV-__Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.pdf)] [[code](https://github.com/Innse/MOTCat)]  
 2024-CVPR-__Prototype Learning for Explainable Brain Age Prediction__ [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.pdf)] [[code](https://github.com/lindehesse/ExPeRT_Code)]  
