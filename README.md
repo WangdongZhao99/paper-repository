@@ -35,10 +35,17 @@
 2025-Arxiv-__Multi-Modal Foundation Models for Computational Pathology:A Survey__ [[paper](https://arxiv.org/pdf/2503.09091)]  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)] 
 2025-Arxiv-__Full Conformal Adaptation of Medical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2506.06076)] [[code](https://github.com/jusiro/FCA)]  
+## zero-shot learning
+2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
+2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]   
+2025-Arxiv-__Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation__ [[paper](https://arxiv.org/pdf/2506.17500)] [[code](https://arxiv.org/pdf/2506.17500)]  
+2025-Arxiv-__Trustworthy Few-Shot Transfer of Medical VLMs through Split Conformal Prediction__ [[paper](https://arxiv.org/pdf/2506.17503)][[code](https://github.com/jusiro/SCA-T)]  
+2025-Arxiv-__Full Conformal Adaptation of Medical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2506.06076)][[code](https://github.com/jusiro/FCA)]  
+
+
 ### others
 2023-ICCV-__Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.pdf)] [[code](https://github.com/Innse/MOTCat)]  
 2024-CVPR-__Prototype Learning for Explainable Brain Age Prediction__ [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Hesse_Prototype_Learning_for_Explainable_Brain_Age_Prediction_WACV_2024_paper.pdf)] [[code](https://github.com/lindehesse/ExPeRT_Code)]  
-2024-CVPR-__CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]  
 2024-CVPR-__ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf)] [[code](https://github.com/Jiangbo-Shi/ViLa-MIL)]  
 2024-CVPR-__Generalizable whole slide image classification with fine-grained visual-semantic interaction__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Generalizable_Whole_Slide_Image_Classification_with_Fine-Grained_Visual-Semantic_Interaction_CVPR_2024_paper.pdf)] [[code](https://github.com/ls1rius/WSI_FIVE)]  
 2024-CVPR-__Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction__ [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jaume_Modeling_Dense_Multimodal_Interactions_Between_Biological_Pathways_and_Histology_for_CVPR_2024_paper.pdf)] [[code](https://github.com/mahmoodlab/SurvPath)]  
@@ -57,11 +64,10 @@
 2025-CVPR-__SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding__  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.pdf)] [[code](https://github.com/uni-medical/SlideChat)]  
 2025-CVPR-__Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information__  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.pdf)] [[code](https://github.com/shihangjs/M2TGLGO)]  
 2025-CVPR-__Interactive Medical Image Analysis with Concept-based Similarity Reasoning__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huy_Interactive_Medical_Image_Analysis_with_Concept-based_Similarity_Reasoning_CVPR_2025_paper.pdf)] [[code](https://github.com/tadeephuy/InteractCSR)]  
+2025-CVPR-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lenz_Unsupervised_Foundation_Model-Agnostic_Slide-Level_Representation_Learning_CVPR_2025_paper.pdf)] [[code](https://github.com/KatherLab/COBRA)]  
 2025-Arxiv-__Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning__ [[paper](https://arxiv.org/pdf/2411.13623)] [[code](https://github.com/KatherLab/COBRA)]  
-2025-Arxiv-__BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2411.15232)] [[code](https://github.com/HealthX-Lab/BiomedCoOp)]   
 2025-Arxiv-__Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology__ [[paper](https://arxiv.org/pdf/2501.02922)] [[code](https://github.com/ss-sun/ConceptMIL)]  
-2025-Arxiv-__Full Conformal Adaptation of Medical Vision-Language Models__ [[paper](https://arxiv.org/pdf/2506.06076)][[code](https://github.com/jusiro/FCA)]
-
+2025-Arxiv-__HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis__ [[paper](https://arxiv.org/pdf/2506.16398)] [[code](https://github.com/HKU-MedAI/HyperPath)]  
 
 ## Mixture of Experts 
 2024-NIPS-__MoVA: Adapting Mixture of Vision Experts to Multimodal Context__ [[paper](https://arxiv.org/pdf/2404.13046?)] [[code](https://github.com/TempleX98/MoVA)]
