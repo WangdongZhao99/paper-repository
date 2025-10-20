@@ -75,8 +75,9 @@
 ## Remote sensing
 2025-TGRS-__Combining SAM With Limited Data for Change Detection in Remote Sensing__ [[paper](https://ieeexplore.ieee.org/abstract/document/10902491)]  
 2025-TGRS-__Be the Change You Want to See: Revisiting Remote Sensing Change Detection Practices__ [[paper](https://arxiv.org/pdf/2507.03367?)] [[code](https://github.com/blaz-r/BTC-change-detection)]  
-2025-Arxiv-__DynamicEarth: How Far are We from Open-Vocabulary Change Detection?__ [[paper](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)]  
 2025-TGRS-__LGTC: Local-Global Tri-Consistency Network for Semi-Supervised Change Detection of Remote Sensing Images__ [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11196991)] [[code](https://github.com/sherryxu21/LGTC)]  
+2025-Arxiv-__DynamicEarth: How Far are We from Open-Vocabulary Change Detection?__ [[paper](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)]  
+2025-Arxiv-__Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models__ [[paper](https://arxiv.org/pdf/2510.07135)] [[code](https://github.com/elkhouryk/fewshot_RSVLMs)]  
 
 
 
