@@ -79,7 +79,7 @@
 2025-Arxiv-__DynamicEarth: How Far are We from Open-Vocabulary Change Detection?__ [[paper](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)]  
 2025-Arxiv-__Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models__ [[paper](https://arxiv.org/pdf/2510.07135)] [[code](https://github.com/elkhouryk/fewshot_RSVLMs)]  
 
-##GCD
+## GCD
 2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://www.robots.ox.ac.uk/⇠vgg/research/gcd)]  
 
 
