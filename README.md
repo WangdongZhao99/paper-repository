@@ -80,7 +80,8 @@
 2025-Arxiv-__Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models__ [[paper](https://arxiv.org/pdf/2510.07135)] [[code](https://github.com/elkhouryk/fewshot_RSVLMs)]  
 
 ## GCD
-2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://www.robots.ox.ac.uk/⇠vgg/research/gcd)]  
+2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
+2023-__Parametric Classification for Generalized Category Discovery: A Baseline Study__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Parametric_Classification_for_Generalized_Category_Discovery_A_Baseline_Study_ICCV_2023_paper.pdf)][[code]( https://github.com/CVMI-Lab/SimGCD)]  
 
 
 
