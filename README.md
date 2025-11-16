@@ -82,6 +82,7 @@
 ## GCD
 2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
 2023-CVPR-__Parametric Classification for Generalized Category Discovery: A Baseline Study__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Parametric_Classification_for_Generalized_Category_Discovery_A_Baseline_Study_ICCV_2023_paper.pdf)][[code]( https://github.com/CVMI-Lab/SimGCD)]  
+2025-ICCV-__AHidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
 
 
 
