@@ -1,4 +1,13 @@
 # paper-repository
+## GCD
+2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
+2023-CVPR-__Parametric Classification for Generalized Category Discovery: A Baseline Study__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Parametric_Classification_for_Generalized_Category_Discovery_A_Baseline_Study_ICCV_2023_paper.pdf)][[code]( https://github.com/CVMI-Lab/SimGCD)]  
+2023-CVPR-__PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery__ [[paper](https://arxiv.org/pdf/2212.05590)] [[code](https://github.com/sheng-eatamath/PromptCAL)]  
+2023-CVPR-__Dynamic Conceptional Contrastive Learning for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pu_Dynamic_Conceptional_Contrastive_Learning_for_Generalized_Category_Discovery_CVPR_2023_paper.pdf)] [[code](https://github.com/TPCD/DCCL)]  
+2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_GET_Unlocking_the_Multi-modal_Potential_of_CLIP_for_Generalized_Category_CVPR_2025_paper.pdf)] [[code](https://github.com/enguangW/GET)]  
+2023-ICCV-__Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery__[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]  
+2025-ICCV-__AHidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
+
 ## Semi-Supervised Learning
 2023-NeurIPS-__S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
 2024-NeurIPS-__OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/b4fd162d3e2d015233486a2e313828a7-Paper-Conference.pdf)] [[code](https://github.com/niusj03/OwMatch)]  
@@ -79,14 +88,7 @@
 2025-Arxiv-__DynamicEarth: How Far are We from Open-Vocabulary Change Detection?__ [[paper](https://arxiv.org/pdf/2501.12931)] [[code](https://github.com/likyoo/DynamicEarth)]  
 2025-Arxiv-__Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models__ [[paper](https://arxiv.org/pdf/2510.07135)] [[code](https://github.com/elkhouryk/fewshot_RSVLMs)]  
 
-## GCD
-2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
-2023-CVPR-__Parametric Classification for Generalized Category Discovery: A Baseline Study__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Parametric_Classification_for_Generalized_Category_Discovery_A_Baseline_Study_ICCV_2023_paper.pdf)][[code]( https://github.com/CVMI-Lab/SimGCD)]  
-2023-CVPR-__PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery__ [[paper](https://arxiv.org/pdf/2212.05590)] [[code](https://github.com/sheng-eatamath/PromptCAL)]  
-2023-CVPR-__Dynamic Conceptional Contrastive Learning for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pu_Dynamic_Conceptional_Contrastive_Learning_for_Generalized_Category_Discovery_CVPR_2023_paper.pdf)] [[code](https://github.com/TPCD/DCCL)]  
-2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_GET_Unlocking_the_Multi-modal_Potential_of_CLIP_for_Generalized_Category_CVPR_2025_paper.pdf)] [[code](https://github.com/enguangW/GET)]  
-2023-ICCV-__Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery__[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]  
-2025-ICCV-__AHidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
+
 
 
 
