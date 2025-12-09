@@ -7,6 +7,11 @@
 2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_GET_Unlocking_the_Multi-modal_Potential_of_CLIP_for_Generalized_Category_CVPR_2025_paper.pdf)] [[code](https://github.com/enguangW/GET)]  
 2023-ICCV-__Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery__[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]  
 2025-ICCV-__AHidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
+2025-ARxiv-__Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts__ [[paper](https://arxiv.org/pdf/2509.26227)] [[https://github.com/HaiyangZheng/MGCE)]  
+2025-ARXIV-__Adaptive Part Learning for Fine-Grained Generalized Category Discovery: APlug-and-Play Enhancement__[[paper](https://arxiv.org/pdf/2507.06928)] [[code]]
+
+##
+2025-ICCV-__Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation__ [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Barsellotti_Talking_to_DINO_Bridging_Self-Supervised_Vision_Backbones_with_Language_for_ICCV_2025_paper.pdf)] [[code](https://lorebianchi98.github.io/Talk2DINO/)]  
 
 ## Semi-Supervised Learning
 2023-NeurIPS-__S-CLIP: Semi-supervised Vision-Language Learning using Few Specialist Captions__ [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)] [[code](https://proceedings.neurips.cc/paper_files/paper/2023/file/c06f788963f0ce069f5b2dbf83fe7822-Paper-Conference.pdf)]  
