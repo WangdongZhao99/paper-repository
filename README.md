@@ -6,9 +6,16 @@
 2023-CVPR-__Dynamic Conceptional Contrastive Learning for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pu_Dynamic_Conceptional_Contrastive_Learning_for_Generalized_Category_Discovery_CVPR_2023_paper.pdf)] [[code](https://github.com/TPCD/DCCL)]  
 2025-CVPR-__GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_GET_Unlocking_the_Multi-modal_Potential_of_CLIP_for_Generalized_Category_CVPR_2025_paper.pdf)] [[code](https://github.com/enguangW/GET)]  
 2023-ICCV-__Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery__[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Learning_Semi-supervised_Gaussian_Mixture_Models_for_Generalized_Category_Discovery_ICCV_2023_paper.pdf)] [[code](https://github.com/DTennant/GPC)]  
-2025-ICCV-__AHidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
+2025-ICCV-__A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention__ [[paper](https://arxiv.org/pdf/2507.14315)] [[code](https://github.com/Afleve/AFGCD)]  
 2025-ARxiv-__Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts__ [[paper](https://arxiv.org/pdf/2509.26227)] [[https://github.com/HaiyangZheng/MGCE)]  
 2025-ARXIV-__Adaptive Part Learning for Fine-Grained Generalized Category Discovery: APlug-and-Play Enhancement__[[paper](https://arxiv.org/pdf/2507.06928)] [[code]]
+2025-ARXIV-__Prior-Constrained Association Learning for Fine-Grained Generalized Category Discover__[[paper](https://arxiv.org/pdf/2502.09501)] [[code](https://github.com/Terminator8758/PAL-GCD)]  
+2025-ARXIV-__Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2503.16782)] 
+2025-ARXIV-__DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY__ [[paper](https://arxiv.org/pdf/2504.04804)]  
+2025-ARXIV-__Generalized Category Discovery via Token Manifold Capacity Learning__ [[paper](https://arxiv.org/pdf/2504.04804)]
+2025-ARXIV-__Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization__ [[paper](https://arxiv.org/pdf/2506.02334)]  
+2025-ARXIV-__Component Adaptive Clustering for Generalized Category Discovery__[[paper](https://arxiv.org/pdf/2507.01711)]  
+2025-ARXIV-__Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery__ [[paper]( https://arxiv.org/pdf/2507.04725)]  
 
 ##
 2025-ICCV-__Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation__ [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Barsellotti_Talking_to_DINO_Bridging_Self-Supervised_Vision_Backbones_with_Language_for_ICCV_2025_paper.pdf)] [[code](https://lorebianchi98.github.io/Talk2DINO/)]  
