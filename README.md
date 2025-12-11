@@ -12,7 +12,7 @@
 2025-ARXIV-__Prior-Constrained Association Learning for Fine-Grained Generalized Category Discover__[[paper](https://arxiv.org/pdf/2502.09501)] [[code](https://github.com/Terminator8758/PAL-GCD)]  
 2025-ARXIV-__Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery__ [[paper](https://arxiv.org/pdf/2503.16782)] 
 2025-ARXIV-__DEBGCD:DEBIASED LEARNING WITH DISTRIBUTION GUIDANCE FOR GENERALIZED CATEGORY DISCOVERY__ [[paper](https://arxiv.org/pdf/2504.04804)]  
-2025-ARXIV-__Generalized Category Discovery via Token Manifold Capacity Learning__ [[paper](https://arxiv.org/pdf/2504.04804)]
+2025-ARXIV-__Generalized Category Discovery via Token Manifold Capacity Learning__ [[paper](https://arxiv.org/pdf/2504.04804)]  
 2025-ARXIV-__Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization__ [[paper](https://arxiv.org/pdf/2506.02334)]  
 2025-ARXIV-__Component Adaptive Clustering for Generalized Category Discovery__[[paper](https://arxiv.org/pdf/2507.01711)]  
 2025-ARXIV-__Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery__ [[paper]( https://arxiv.org/pdf/2507.04725)]  
