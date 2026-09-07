@@ -1,6 +1,6 @@
 # paper-repository
 ## Visual Localization
-2023-_ARXIV-_EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition__ [[paper](https://arxiv.org/pdf/2308.10832)] [[code](https://github.com/gmberton/EigenPlaces)]  
+2023-_ARXIV-__EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition__ [[paper](https://arxiv.org/pdf/2308.10832)] [[code](https://github.com/gmberton/EigenPlaces)]  
 2026-ARXIV-__Privacy-Preserving Structureless Visual Localization via Image Obfuscation__ [[paper](https://arxiv.org/pdf/2604.12068)]
 ## GCD
 2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
