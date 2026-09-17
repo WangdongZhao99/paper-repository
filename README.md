@@ -201,11 +201,7 @@
 
 2026-ARXIV-**DDMS: Discriminative Distillation of Multi-View Foundational Features into Single-View Models** [[paper](https://arxiv.org/pdf/2608.23850)]
 
-## Visual Localization
-2023-ARXIV-__EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition__ [[paper](https://arxiv.org/pdf/2308.10832)] [[code](https://github.com/gmberton/EigenPlaces)]  
-2026-ARXIV-__Privacy-Preserving Structureless Visual Localization via Image Obfuscation__ [[paper](https://arxiv.org/pdf/2604.12068)]  
-2026-ECCV-__LangLoc: “Tell Me What You See”__ [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3307.pdf)][[code](https://rzninvo.github.io/Lang-Loc/)]  
-2026-ECCV-__GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training__ [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7262.pdf)] [[code](https://github.com/YejunZhang/Geomix)]  
+ 
 ## GCD
 2022-CVPR-__Generalized Category Discovery__ [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vaze_Generalized_Category_Discovery_CVPR_2022_paper.pdf)] [[code](https://github.com/sgvaze/generalized-category-discovery)]  
 2023-CVPR-__Parametric Classification for Generalized Category Discovery: A Baseline Study__ [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Parametric_Classification_for_Generalized_Category_Discovery_A_Baseline_Study_ICCV_2023_paper.pdf)][[code]( https://github.com/CVMI-Lab/SimGCD)]  
