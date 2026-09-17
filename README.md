@@ -1,4 +1,206 @@
 # paper-repository
+
+# Visual Localization
+
+## General Visual Localization
+
+2026-IJCV-**A Guide to Structureless Visual Localization** [[paper](https://arxiv.org/pdf/2504.17636)]
+
+2026-ICLR-**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features** [[paper](https://arxiv.org/pdf/2510.00978)]
+
+2026-CVPR-**CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Mao_CoLoR_The_Devil_is_in_Scene_Coordinate_Regression_for_Large-Scale_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**Sparse-View Localization via Online Neural 3D Regression** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Dillen_Sparse-View_Localization_via_Online_Neural_3D_Regression_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**Unlocking Single-View Constraints for Efficient Camera Relocalization with Keypoint-Level Multi-View Geometric Consistency in Training** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Unlocking_Single-View_Constraints_for_Efficient_Camera_Relocalization_with_Keypoint-Level_Multi-View_Geometric_CVPR_2026_paper.pdf)]
+
+2026-ARXIV-**PlanaReLoc: Camera Relocalization in 3D Planar Primitives via Region-Based Structure Matching** [[paper](https://arxiv.org/pdf/2603.20818)]
+
+2026-ARXIV-**AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization** [[paper](https://arxiv.org/pdf/2604.09445)]
+
+2026-ARXIV-**Towards Visual Query Localization in the 3D World** [[paper](https://arxiv.org/pdf/2605.01498)]
+
+2026-ARXIV-**VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models** [[paper](https://arxiv.org/pdf/2603.09826)]
+
+2026-ARXIV-**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps** [[paper](https://arxiv.org/pdf/2601.02730)]
+
+2026-ARXIV-**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions** [[paper](https://arxiv.org/pdf/2604.11579)]  
+
+2026-ECCV-_**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training** [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7262.pdf)] [[code](https://github.com/YejunZhang/Geomix)]
+
+2025-CVPR-**GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes** [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_Changes_CVPR_2025_paper.pdf)]
+
+2025-ICCV-**Adversarial Exploitation of Data Diversity Improves Visual Localization** [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Adversarial_Exploitation_of_Data_Diversity_Improves_Visual_Localization_ICCV_2025_paper.pdf)]  
+2023-ARXIV-__EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition__ [[paper](https://arxiv.org/pdf/2308.10832)] [[code](https://github.com/gmberton/EigenPlaces)] 
+
+## Language-Guided Visual Localization
+
+2026-ECCV-__LangLoc: “Tell Me What You See”__ [[paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3307.pdf)] [[code](https://rzninvo.github.io/Lang-Loc/)]
+
+## Gaussian Splatting for Visual Localization
+
+2026-ARXIV-**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2605.04730)]
+
+2026-ARXIV-**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting** [[paper](https://arxiv.org/pdf/2603.29185)]
+
+2026-ARXIV-**Disambiguating 2D-3D Correspondences in Gaussian Splatting-Based Feature Fields for Visual Localization** [[paper](https://arxiv.org/pdf/2605.07351)]
+
+2026-NEURIPS-**3D Gaussian Splatting Based Scene-Independent Relocalization with Unidirectional and Bidirectional Feature Fusion** [paper]
+
+2025-ICLR-**GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2408.11085)] [[code](https://github.com/XRIM-Lab/GS-CPR)]
+
+2025-CVPR-**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting** [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_From_Sparse_to_Dense_Camera_Relocalization_with_Scene-Specific_Detector_from_Feature_CVPR_2025_paper.pdf)]
+
+2025-CVPR-**Gaussian Splatting Feature Fields for (Privacy-Preserving) Visual Localization** [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Pietrantoni_Gaussian_Splatting_Feature_Fields_for_Privacy-Preserving_Visual_Localization_CVPR_2025_paper.pdf)]
+
+2025-IROS-**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization** [[paper](https://gsplatloc.github.io/)] [[code](https://github.com/be2rlab/gsplatloc)]
+
+## Privacy-Preserving Visual Localization
+
+2026-ARXIV-**Privacy-Preserving Structureless Visual Localization via Image Obfuscation** [[paper](https://arxiv.org/pdf/2604.12068)]
+
+2026-ARXIV-**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization** [[paper](https://arxiv.org/pdf/2604.22310)]
+
+# Cross-View Geo-Localization
+
+2026-CVPR-**VGA: Empowering Aerial-Ground Localization by Visual Geometry Alignment** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_VGA_Empowering_Aerial-Ground_Localization_by_Visual_Geometry_Alignment_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**Geo2: Geometry-Guided Cross-View Geo-Localization and Image Synthesis** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Geo2_Geometry-Guided_Cross-view_Geo-Localization_and_Image_Synthesis_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**UniGeoRS: A Unified Benchmark for Tri-View Geo-Localization** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_UniGeoRS_A_Unified_Benchmark_for_Tri-view_Geo-Localization_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction** [[paper](https://arxiv.org/pdf/2603.21943)]
+
+2026-CVPR-**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Daruna_GeoSURGE_Geo-localization_using_Semantic_Fusion_with_Hierarchy_of_Geographic_Embeddings_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_PAUL_Uncertainty-Guided_Partition_and_Augmentation_for_Robust_Cross-View_Geo-Localization_under_CVPR_2026_paper.pdf)]
+
+2026-ARXIV-**SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization** [[paper](https://arxiv.org/pdf/2603.09377)]
+
+2026-ARXIV-**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation** [[paper](https://arxiv.org/pdf/2603.12918)]
+
+2026-ARXIV-**BEV-SLD: Self-Supervised Scene Landmark Detection for Global Localization with LiDAR Bird's-Eye View Images** [[paper](https://arxiv.org/pdf/2603.17159)]
+
+2026-ARXIV-**MOGeo: Beyond One-to-One Cross-View Object Geo-localization** [[paper](https://arxiv.org/pdf/2603.13843)]
+
+2026-ARXIV-**RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization** [[paper](https://arxiv.org/pdf/2603.27758)]
+
+2026-ARXIV-**Mechanisms of Object Localization in Vision-Language Models** [[paper](https://arxiv.org/pdf/2605.19792)]
+
+# 3D Reconstruction & Gaussian Splatting
+
+2026-CVPR-**Learning 3D Reconstruction with Priors in Test Time** [[paper](https://arxiv.org/pdf/2604.03878)]
+
+2026-ARXIV-**Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself** [[paper](https://arxiv.org/pdf/2604.14048)]
+
+2026-CVPR-**Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Uni3R_Unified_3D_Reconstruction_and_Semantic_Understanding_via_Generalizable_Gaussian_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**Learning Compact 3D Representations from Feed-Forward Novel View Synthesis** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/An_Learning_Compact_3D_Representations_from_Feed-Forward_Novel_View_Synthesis_CVPR_2026_paper.pdf)]
+
+2026-ARXIV-**FF3R: Feedforward Feature 3D Reconstruction from Unconstrained Views** [[paper](https://arxiv.org/pdf/2604.09862)]
+
+2026-ARXIV-**GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens** [[paper](https://arxiv.org/pdf/2604.15284)]
+
+2026-ARXIV-**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens** [[paper](https://arxiv.org/pdf/2604.15239)]
+
+2026-ARXIV-**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2603.25129)]
+
+2026-ARXIV-**AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2605.10239)]
+
+2026-ARXIV-**ATSplat: Compact Feed-Forward 3D Gaussian Splatting with Adaptive Token Expansion** [[paper](https://arxiv.org/pdf/2607.20417)]
+
+2026-ARXIV-**QuerySplat: Decoupling Geometry and Appearance Representations in 3DGS Prediction** [[paper](https://arxiv.org/pdf/2608.01186)]
+
+2026-ARXIV-**Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views** [[paper](https://arxiv.org/pdf/2606.29513)]
+
+2026-ARXIV-**Seeing Before Generating: Object Perception Enhances Single-View 3D Reconstruction** [[paper](https://arxiv.org/pdf/2607.18630)]
+
+2026-ARXIV-**SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes** [[paper](https://arxiv.org/pdf/2603.22893)]
+
+2026-ARXIV-**S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction** [[paper](https://arxiv.org/pdf/2603.14232)]
+
+2026-ARXIV-**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction** [[paper](https://arxiv.org/pdf/2605.31595)]
+
+2025-ARXIV-**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images** [[paper](https://arxiv.org/pdf/2506.09378)]
+
+2025-ARXIV-**EcoSplat: Efficiency-Controllable Feed-Forward 3D Gaussian Splatting from Multi-View Images** [[paper](https://arxiv.org/pdf/2512.18692)]
+
+# Open-Vocabulary 3D Scene Understanding
+
+2026-ARXIV-**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding** [[paper](https://arxiv.org/pdf/2601.09575)]
+
+2026-CVPR-**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_EmbodiedSplat_Online_Feed-Forward_Semantic_3DGS_for_Open-Vocabulary_3D_Scene_Understanding_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ding_ExtrinSplat_Decoupling_Geometry_and_Semantics_for_Open-Vocabulary_Understanding_in_3D_CVPR_2026_paper.pdf)]
+
+2026-CVPR-**GenSplat: Bridging the Generalization Gap in 3DGS Language Comprehension** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_GenSplat_Bridging_the_Generalization_Gap_in_3DGS_Language_Comprehension_CVPR_2026_paper.pdf)]
+
+2026-ECCV-**LEGO: Leveled Language Gaussian Splatting** [[paper](https://arxiv.org/pdf/2608.10057)]
+
+2026-ARXIV-**LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds** [[paper](https://arxiv.org/pdf/2603.24146)]
+
+2026-ARXIV-**LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding** [[paper](https://arxiv.org/pdf/2604.01388)]
+
+2026-ARXIV-**RelAGS: Relational Language Gaussian Splatting** [[paper](https://arxiv.org/pdf/2603.17605)]
+
+2026-ARXIV-**LangFlash: Feed-Forward 3D Language Gaussian Splatting from Sparse Unposed Images** [[paper](https://arxiv.org/pdf/2605.23287)]
+
+2026-ARXIV-**TASE: Truncation-Aware Semantic Embeddings for 3D Scene Understanding and Editing** [[paper](https://arxiv.org/pdf/2606.03314)]
+
+2026-ARXIV-**Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting** [[paper](https://arxiv.org/pdf/2605.13600)]
+
+2026-ARXIV-**CoSAG: Compact Semantic Anchor Gaussians via Training-Free Rate-Distortion Coding** [[paper](https://arxiv.org/pdf/2607.10237)]
+
+2026-ARXIV-**Relation-Centric Open-Vocabulary 3D Gaussian Segmentation** [[paper](https://arxiv.org/pdf/2607.01140)]
+
+2026-ECCV-**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2607.18801)]
+
+2025-ICLR-**econSG: Efficient and Multi-View Consistent Open-Vocabulary 3D Semantic Gaussians** [[paper](https://arxiv.org/pdf/2504.06003)]
+
+2025-ICCV-**LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Marrie_LUDVIG_Learning-Free_Uplifting_of_2D_Visual_Features_to_Gaussian_Splatting_ICCV_2025_paper.pdf)]
+
+2025-NEURIPS-**COS3D: Collaborative Open-Vocabulary 3D Segmentation** [[paper](https://arxiv.org/pdf/2510.20238)]
+
+# 3D Segmentation, Detection & Mapping
+
+2026-ARXIV-**B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates** [[paper](https://arxiv.org/pdf/2602.17134)]
+
+2026-CVPR-**Zoo3D: Zero-Shot 3D Object Detection at Scene Level** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lemeshko_Zoo3D_Zero-Shot_3D_Object_Detection_at_Scene_Level_CVPR_2026_paper.pdf)]
+
+2026-ECCV-**Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection** [[paper](https://arxiv.org/pdf/2603.21944)] [[code](https://github.com/Ubin108/Group3D)]
+
+2026-CVPR-**OVI-MAP: Open-Vocabulary Instance-Semantic Mapping** [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_OVI-MAP_Open-Vocabulary_Instance-Semantic_Mapping_CVPR_2026_paper.pdf)]
+
+2026-ARXIV-**OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting** [[paper](https://arxiv.org/pdf/2603.18510)]
+
+2026-ARXIV-**EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation** [[paper](https://arxiv.org/pdf/2606.08980)]
+
+2026-ARXIV-**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation** [[paper](https://arxiv.org/pdf/2606.14307)]
+
+2025-ARXIV-**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-Based 3D Visual Grounding** [[paper](https://arxiv.org/pdf/2512.20907)]
+
+# 3D Occupancy Prediction
+
+2026-CVPR-**Test-Time 3D Occupancy Prediction** [paper]
+
+2026-ARXIV-**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction** [[paper](https://arxiv.org/pdf/2604.28115)]
+
+2026-ARXIV-**Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes** [[paper](https://arxiv.org/pdf/2602.22667)]
+
+2025-ICCV-**Language Driven Occupancy Prediction** [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_Language_Driven_Occupancy_Prediction_ICCV_2025_paper.pdf)]
+
+2025-ARXIV-**Streaming Dense Voxel Representations for 3D Occupancy Prediction** [[paper](https://arxiv.org/pdf/2503.22087)]
+
+# 2D-3D Representation & Feature Transfer
+
+2025-NEURIPS-**Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations** [[paper](https://arxiv.org/pdf/2510.23607)] [[code](https://github.com/Pointcept/Concerto)]
+
+2026-ARXIV-**CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer** [[paper](https://arxiv.org/pdf/2608.05482)]
+
+2026-ARXIV-**Lift, Associate, and Fuse: A Decision-Centric Framework for 2D-to-3D Foundation Model Transfer** [[paper](https://arxiv.org/pdf/2608.20659)]
+
+2026-ARXIV-**DDMS: Discriminative Distillation of Multi-View Foundational Features into Single-View Models** [[paper](https://arxiv.org/pdf/2608.23850)]
+
 ## Visual Localization
 2023-ARXIV-__EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition__ [[paper](https://arxiv.org/pdf/2308.10832)] [[code](https://github.com/gmberton/EigenPlaces)]  
 2026-ARXIV-__Privacy-Preserving Structureless Visual Localization via Image Obfuscation__ [[paper](https://arxiv.org/pdf/2604.12068)]  
